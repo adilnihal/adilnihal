@@ -6,12 +6,12 @@ I'm Adil Nihal
 
 ---
 
-## 🚀 About Me
+## About Me
 I am a passionate AI and Data Analytics enthusiast with hands-on experience in machine learning, deep learning, and data analysis. I enjoy working on real-world datasets, building predictive models, and extracting meaningful insights from data. I am actively looking for opportunities as a Data Analyst, ML Engineer, or AI Engineer.
 
 ---
 
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 - Programming: Python  
 - Data Analysis: Pandas, NumPy, Matplotlib, Seaborn  
 - Machine Learning: Scikit-learn  
@@ -22,9 +22,9 @@ I am a passionate AI and Data Analytics enthusiast with hands-on experience in m
 
 ---
 
-## 📂 Projects
+##  Projects
 
-### 🩺 Breast Cancer Classification using Deep Learning
+###  Breast Cancer Classification using Deep Learning
 🔗 GitHub: https://github.com/adilnihal/Breast-Cancer-Classification  
 
 - Classified breast ultrasound images as benign or malignant  
@@ -34,17 +34,14 @@ I am a passionate AI and Data Analytics enthusiast with hands-on experience in m
 
 ---
 
-## 📈 Currently Learning
+##  Currently Learning
 - Advanced Data Analytics  
 - Machine Learning Model Optimization  
 - Real-world Data Visualization Projects  
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 - GitHub: https://github.com/adilnihal  
 - LinkedIn: https://www.linkedin.com/in/adil-nihal  
 
----
-
-⭐ Feel free to explore my repositories and connect with me!
