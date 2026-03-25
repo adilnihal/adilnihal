@@ -1,4 +1,4 @@
-# Hi 👋, I'm Adil Nihal
+I'm Adil Nihal
 
 🎓 B.Tech in Artificial Intelligence & Machine Learning  
 📊 Currently pursuing a course in Data Analytics  
